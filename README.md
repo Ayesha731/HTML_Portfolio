@@ -1,2 +1,2 @@
-# Web_Projects
+# CODE_SEEKHO_MERN
 These are  Web Projects.
